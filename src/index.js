@@ -16,7 +16,7 @@ import {
   formatError,
   getOperationAST,
   specifiedRules
-} from 'graphql';
+} from 'flow-graphql';
 import httpError from 'http-errors';
 
 import { parseBody } from './parseBody';

@@ -27,7 +27,7 @@ import {
   GraphQLString,
   GraphQLError,
   BREAK
-} from 'graphql';
+} from 'flow-graphql';
 import graphqlHTTP from '../';
 
 const QueryRootType = new GraphQLObjectType({
